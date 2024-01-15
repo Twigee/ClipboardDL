@@ -7,7 +7,7 @@ Copy youtube link, run the exe and it will download the video at the highest qua
 
 
 
-**DEPENDENCIES**
+# **DEPENDENCIES**
 * PYTUBE
 * TKINTER
 * WIN32CLIPBOARD
